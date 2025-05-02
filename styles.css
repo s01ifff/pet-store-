@@ -1,3 +1,17 @@
+.test_style {
+  float: right;
+  width: 800px;
+  margin-left: 30px;
+  border: 1px blue solid;
+}
+
+.cell_text {
+  color: green;
+  font-size: xx-large;
+}
+
+
+
 html, body, h1, h2, h3, h4 {
 	margin: 0;
 	padding: 0;
@@ -189,7 +203,7 @@ body {
   font: 23px "Times new roman", serif;
   color: #fff;
   height: 23px;
-  margin-bottom: 20px;
+  margin-bottom: 200px;
   background: top center url(images/tab_drk.gif) no-repeat;
 }
 #gallery .box p {
