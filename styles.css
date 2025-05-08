@@ -2,11 +2,11 @@
   float: right;
   width: 800px;
   margin-left: 30px;
-  border: 1px blue solid;
+  border: 10px blue solid;
 }
 
 .cell_text {
-  color: #008000;
+  color: #F2CD91;
   font-size: xx-large;
 }
 
